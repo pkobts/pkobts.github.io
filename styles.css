@@ -295,12 +295,6 @@ h1 .hl { color: var(--accent-yellow); }
   box-shadow: 0 24px 60px rgba(0, 0, 0, 0.5);
 }
 
-.hero-art figcaption {
-  margin-top: 12px;
-  font-size: 13px;
-  color: var(--ash);
-}
-
 /* ---------- palette mockup ---------- */
 
 .palette {
